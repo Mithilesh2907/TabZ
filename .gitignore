@@ -22,3 +22,40 @@ local.properties
 *.zip
 *.jar
 *.keystore
+
+
+# Built application files
+*.aab
+*.aar
+
+# Files for the ART/Dalvik VM
+
+# Java class files
+
+# Generated files
+bin/
+gen/
+out/
+build/
+
+# Gradle files
+.gradle/
+gradlew
+gradlew.bat
+
+# Android Studio
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore files (IMPORTANT)
+*.jks
+
+# Logs
+
+# OS generated files
+Thumbs.db
+
+# Google Services (if you want private)
+google-services.json
